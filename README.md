@@ -27,15 +27,13 @@ Cuando ya tengas la carpeta como los archivos clonados podras ejecutar la librer
 
 ![cmd ruta](https://user-images.githubusercontent.com/59977494/75005307-f943df80-543b-11ea-81ea-9ae97daaa588.PNG)
 
-3. Luego utilizamos el comando git clone y ponemos el siguiente link  https://github.com/DeividMedina30/Observables-y-Medidas..git
+3. Luego utilizamos el comando git clone y ponemos el siguiente link  https://github.com/DeividMedina30/Observables-y-Medidas.git
 
-![git clone](https://user-images.githubusercontent.com/59977494/75005420-622b5780-543c-11ea-9cdf-6d0005f85d03.PNG)
+![image](https://user-images.githubusercontent.com/59977494/78088935-5c098e80-738b-11ea-9ccd-47febf2b03b3.png)
 
 4. Al dirigirnos al escritorio en este caso que fue donde guardamos clonamos el repositorio nos aparecera la carpeta con el nombre del reposit y dentro de ella todos los archivos.
 
-![Repositorio](https://user-images.githubusercontent.com/59977494/75005596-f0074280-543c-11ea-850e-13099733bed0.PNG)
-
-
+![image](https://user-images.githubusercontent.com/59977494/78089054-bf93bc00-738b-11ea-85ec-266268228d8c.png)
 
 5. A la hora de abrir algun archivo Test , podrea ejecutar dicho archivo ya sea dando F5 o  en Run(Run Module F5).Para finalmente mostrar el resultado de ejecutar dicho Test.
 
