@@ -15,7 +15,7 @@ La versión 1 de la librería con el nombre Observables y Medidas se realizan lo
 
 ### Pasos de descarga y uso de pruebas
 Lo primero que debes realizar es hacer un copia de el repositorio desde (cmd) el cual lo puedes ejecutar buscando desde el buscador de la computadora como cmd.
-Despues escribes el siguiente comando git clone https://github.com/DeividMedina30/Observables-y-Medidas..git
+Despues escribes el siguiente comando git clone https://github.com/DeividMedina30/Observables-y-Medidas.git
 
 Cuando ya tengas la carpeta como los archivos clonados podras ejecutar la libreria desde el test que es el archivo con nombre Test.py.
 
