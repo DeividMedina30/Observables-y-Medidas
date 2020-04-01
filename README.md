@@ -15,7 +15,7 @@ La versión 1 de la librería con el nombre Observables y Medidas se realizan lo
 
 ### Pasos de descarga y uso de pruebas
 Lo primero que debes realizar es hacer un copia de el repositorio desde (cmd) el cual lo puedes ejecutar buscando desde el buscador de la computadora como cmd.
-Despues escribes el siguiente comando git clone 
+Despues escribes el siguiente comando git clone https://github.com/DeividMedina30/Observables-y-Medidas..git
 
 Cuando ya tengas la carpeta como los archivos clonados podras ejecutar la libreria desde el test que es el archivo con nombre Test.py.
 
@@ -27,7 +27,7 @@ Cuando ya tengas la carpeta como los archivos clonados podras ejecutar la librer
 
 ![cmd ruta](https://user-images.githubusercontent.com/59977494/75005307-f943df80-543b-11ea-81ea-9ae97daaa588.PNG)
 
-3. Luego utilizamos el comando git clone y ponemos el siguiente link  https://github.com/DeividMedina30/CNYT-FINAL.git
+3. Luego utilizamos el comando git clone y ponemos el siguiente link  https://github.com/DeividMedina30/Observables-y-Medidas..git
 
 ![git clone](https://user-images.githubusercontent.com/59977494/75005420-622b5780-543c-11ea-9cdf-6d0005f85d03.PNG)
 
